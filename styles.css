@@ -1,0 +1,195 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 11px;
+    scrollbar-width: none;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+svg {
+    width: 8%;
+    height: auto;
+}
+
+.workList svg {
+    width: 40%;
+}
+
+.links a {
+    display: flex;
+    flex-direction: row;
+    gap: 8%;
+}
+
+.catalog {
+    display: grid;
+    grid-template-columns: 25% 25% 25% 25%;
+}
+
+.workList {
+    display: flex;
+    flex-direction: column;
+}
+
+.space {
+    margin-top: 10%;
+}
+
+.space :first-child {
+    height: 100%;
+    width: 14px;
+    margin-right: 11px;
+}
+
+
+.workList div {
+    display: flex;
+    gap: 7%;
+    cursor: pointer;
+}
+
+.workList>*:first-child {
+    margin-bottom: 10px;
+}
+
+.container {
+    display: grid;
+    height: 100vh;
+
+}
+
+.links {
+    display: flex;
+    flex-direction: column;
+}
+
+video {
+    width: 100%;
+    /* Set width as needed, for example, 100% */
+    max-width: 600px;
+    /* Set max width to control the size */
+    height: auto;
+    /* Maintain aspect ratio */
+}
+
+img {
+    max-width: 100%;
+    /* Responsive images */
+    height: auto;
+}
+
+.container {
+    display: grid;
+    grid-template-columns: 58% 42%;
+}
+
+
+.right,
+.left {
+    padding: 10px;
+}
+
+
+.left {
+    display: grid;
+    grid-template-rows: 10% 85%;
+    gap: 5%;
+}
+
+.right {
+    overflow-y: auto;
+    height: 100vh;
+    display: grid;
+    grid-template-rows: 10% 90%;
+    padding: 2% 0px 0px 0px;
+}
+
+.unGrid {
+    display: inline;
+    padding: 0px;
+}
+
+.unGrid img {
+    margin-bottom: 1%;
+}
+
+
+.about {
+    display: grid;
+    grid-template-columns: 15% 48% 15% 19%;
+    gap: 1%;
+
+}
+
+.catalog {
+    display: grid;
+    grid-template-columns: 15% 23% 24% 35%;
+    gap: 1%;
+
+
+}
+
+.logo {
+    padding: 10px;
+    background-image: url(/media/logo.png);
+    background-position: center;
+    background-size: 78%;
+    background-repeat: no-repeat;
+    cursor: pointer;
+}
+
+.right {
+    position: relative;
+    width: 100%;
+    /* Adjust as needed */
+    height: auto;
+    /* Adjust as needed */
+}
+
+.frame-img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: auto;
+    opacity: 0;
+    transition: opacity 0.1s ease-in-out;
+    /* Fade effect duration */
+}
+
+.right img.visible {
+    opacity: 1;
+    /* Visible image */
+}
+
+.workInfo {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    justify-content: center;
+    align-self: flex-start;
+    gap: 2%;
+}
+
+.workInfo p {
+    width: 33.3%;
+    text-align: center;
+
+}
+
+.content {
+    display: flex;
+    /* Use flexbox for layout inside this container */
+    flex-direction: column;
+    /* Stack items vertically */
+    align-items: center;
+    /* Center items horizontally */
+    gap: 2%;
+
+}
