@@ -5,22 +5,22 @@ const works = [{
     year: 2024,
     location: 'Bethlehem - Palestine',
     html: `<img src="./media/works/visualIdentities/The Wonder Cabinet/1.png"></img>
-    <img src="/media/works/visualIdentities/The Wonder Cabinet/2.png"></img>
-    <img src="/media/works/visualIdentities/The Wonder Cabinet/3.png"></img>
-    <img src="/media/works/visualIdentities/The Wonder Cabinet/4.png"></img>
-    <img src="/media/works/visualIdentities/The Wonder Cabinet/5.png"></img>
-    <img src="/media/works/visualIdentities/The Wonder Cabinet/6.jpeg"></img>
-    <img src="/media/works/visualIdentities/The Wonder Cabinet/7.jpeg"></img>
-    <img src="/media/works/visualIdentities/The Wonder Cabinet/8.jpeg"></img>
-    <img src="/media/works/visualIdentities/The Wonder Cabinet/9.jpeg"></img>`
+    <img src="./media/works/visualIdentities/The Wonder Cabinet/2.png"></img>
+    <img src="./media/works/visualIdentities/The Wonder Cabinet/3.png"></img>
+    <img src="./media/works/visualIdentities/The Wonder Cabinet/4.png"></img>
+    <img src="./media/works/visualIdentities/The Wonder Cabinet/5.png"></img>
+    <img src="./media/works/visualIdentities/The Wonder Cabinet/6.jpeg"></img>
+    <img src="./media/works/visualIdentities/The Wonder Cabinet/7.jpeg"></img>
+    <img src="./media/works/visualIdentities/The Wonder Cabinet/8.jpeg"></img>
+    <img src="./media/works/visualIdentities/The Wonder Cabinet/9.jpeg"></img>`
 }, {
     id: 2,
     type: 'Visual Identities',
     title: 'Ahmed Mater',
     year: 2024,
     location: 'Riyadh - Saudi Arabia',
-    html: `<img src="/media/works/visualIdentities/Ahmed Mater/1.png"></img>
-           <img src="/media/works/visualIdentities/Ahmed Mater/2.png"></img>`
+    html: `<img src="./media/works/visualIdentities/Ahmed Mater/1.png"></img>
+           <img src="./media/works/visualIdentities/Ahmed Mater/2.png"></img>`
 }, {
     id: 3,
     type: 'Visual Identities',
@@ -35,7 +35,7 @@ const works = [{
     title: 'Sound of Places',
     year: 2024,
     location: 'Bethlehem - Palestine',
-    html: `<video src="/media/works/visualIdentities/Sound Of Places/1.mp4" muted loop autoplay>`
+    html: `<video src="./media/works/visualIdentities/Sound Of Places/1.mp4" muted loop autoplay>`
 
 }, {
     id: 5,
@@ -44,11 +44,11 @@ const works = [{
     year: 2023,
     location: 'Amman - Jordan',
     html: `
-    <img src="/media/works/visualIdentities/The Radical Project/1.png"></img>
-    <img src="/media/works/visualIdentities/The Radical Project/2.png"></img>
-    <img src="/media/works/visualIdentities/The Radical Project/3.png"></img>
-    <img src="/media/works/visualIdentities/The Radical Project/4.png"></img>
-    <img src="/media/works/visualIdentities/The Radical Project/5.jpg"></img>`
+    <img src="./media/works/visualIdentities/The Radical Project/1.png"></img>
+    <img src="./media/works/visualIdentities/The Radical Project/2.png"></img>
+    <img src="./media/works/visualIdentities/The Radical Project/3.png"></img>
+    <img src="./media/works/visualIdentities/The Radical Project/4.png"></img>
+    <img src="./media/works/visualIdentities/The Radical Project/5.jpg"></img>`
 
 }, {
     id: 6,
@@ -57,8 +57,8 @@ const works = [{
     year: 2023,
     location: 'Kuwait City - Kuwait',
     html: `
-    <img src="/media/works/visualIdentities/Akkaz Collective/1.jpg"></img>
-    <img src="/media/works/visualIdentities/Akkaz Collective/2.jpg"></img`
+    <img src="./media/works/visualIdentities/Akkaz Collective/1.jpg"></img>
+    <img src="./media/works/visualIdentities/Akkaz Collective/2.jpg"></img`
 
 
 }, {
@@ -68,11 +68,11 @@ const works = [{
     year: 2023,
     location: 'New York - USA',
     html: `
-    <img src="/media/works/visualIdentities/Huda Levantine Bistro/1.jpg"></img>
-    <img src="/media/works/visualIdentities/Huda Levantine Bistro/2.jpg"></img>
-    <img src="/media/works/visualIdentities/Huda Levantine Bistro/3.png"></img>
-    <img src="/media/works/visualIdentities/Huda Levantine Bistro/4.jpeg"></img>
-    <img src="/media/works/visualIdentities/Huda Levantine Bistro/5.jpg"></img>
+    <img src="./media/works/visualIdentities/Huda Levantine Bistro/1.jpg"></img>
+    <img src="./media/works/visualIdentities/Huda Levantine Bistro/2.jpg"></img>
+    <img src="./media/works/visualIdentities/Huda Levantine Bistro/3.png"></img>
+    <img src="./media/works/visualIdentities/Huda Levantine Bistro/4.jpeg"></img>
+    <img src="./media/works/visualIdentities/Huda Levantine Bistro/5.jpg"></img>
     `
 
 }, {
@@ -82,12 +82,12 @@ const works = [{
     year: 2023,
     location: 'Doha - Qatar',
     html: `
-    <img src="/media/works/visualIdentities/Fenyal Cafe/1.jpg"></img>
-    <img src="/media/works/visualIdentities/Fenyal Cafe/2.png"></img>
-    <img src="/media/works/visualIdentities/Fenyal Cafe/3.jpg"></img>
-    <img src="/media/works/visualIdentities/Fenyal Cafe/4.png"></img>
-    <img src="/media/works/visualIdentities/Fenyal Cafe/5.png"></img>
-    <img src="/media/works/visualIdentities/Fenyal Cafe/6.png"></img>
+    <img src="./media/works/visualIdentities/Fenyal Cafe/1.jpg"></img>
+    <img src="./media/works/visualIdentities/Fenyal Cafe/2.png"></img>
+    <img src="./media/works/visualIdentities/Fenyal Cafe/3.jpg"></img>
+    <img src="./media/works/visualIdentities/Fenyal Cafe/4.png"></img>
+    <img src="./media/works/visualIdentities/Fenyal Cafe/5.png"></img>
+    <img src="./media/works/visualIdentities/Fenyal Cafe/6.png"></img>
 
 
     `
@@ -99,7 +99,7 @@ const works = [{
     year: 2023,
     location: 'Birzeit - Palestine',
     html: `
-    <img src="/media/works/visualIdentities/Arak Fursan/1.gif"></img>
+    <img src="./media/works/visualIdentities/Arak Fursan/1.gif"></img>
     `
 
 }, {
@@ -109,11 +109,11 @@ const works = [{
     year: 2023,
     location: 'Berlin - Germany',
     html: `
-    <img src="/media/works/visualIdentities/David August - VIS/1.jpeg"></img>
-    <img src="/media/works/visualIdentities/David August - VIS/2.jpeg"></img>
-    <img src="/media/works/visualIdentities/David August - VIS/3.jpeg"></img>
-    <img src="/media/works/visualIdentities/David August - VIS/4.jpeg"></img>
-    <img src="/media/works/visualIdentities/David August - VIS/5.jpeg"></img>
+    <img src="./media/works/visualIdentities/David August - VIS/1.jpeg"></img>
+    <img src="./media/works/visualIdentities/David August - VIS/2.jpeg"></img>
+    <img src="./media/works/visualIdentities/David August - VIS/3.jpeg"></img>
+    <img src="./media/works/visualIdentities/David August - VIS/4.jpeg"></img>
+    <img src="./media/works/visualIdentities/David August - VIS/5.jpeg"></img>
     `
 
 }, {
@@ -123,7 +123,7 @@ const works = [{
     year: 2023,
     location: 'Amman - Jordan',
     html: `
-    <img src="/media/works/visualIdentities/Syria Collection/1.png"></img>    
+    <img src="./media/works/visualIdentities/Syria Collection/1.png"></img>    
     `
 
 }, {
@@ -133,10 +133,10 @@ const works = [{
     year: 2023,
     location: 'Beirut - Lebanon',
     html: `
-    <img src="/media/works/visualIdentities/Fabraca/1.jpg"></img>
-    <img src="/media/works/visualIdentities/Fabraca/2.png"></img>
-    <img src="/media/works/visualIdentities/Fabraca/3.jpg"></img>
-    <img src="/media/works/visualIdentities/Fabraca/4.jpg"></img>
+    <img src="./media/works/visualIdentities/Fabraca/1.jpg"></img>
+    <img src="./media/works/visualIdentities/Fabraca/2.png"></img>
+    <img src="./media/works/visualIdentities/Fabraca/3.jpg"></img>
+    <img src="./media/works/visualIdentities/Fabraca/4.jpg"></img>
     `
 
 }, {
@@ -146,12 +146,12 @@ const works = [{
     year: 2022,
     location: 'Lisbon - Portugal',
     html: `
-    <video src="/media/works/visualIdentities/Exist Resist by Didier Faustino/1.mp4" muted loop autoplay>
-    <img src="/media/works/visualIdentities/Exist Resist by Didier Faustino/2.png"></img>
-    <img src="/media/works/visualIdentities/Exist Resist by Didier Faustino/3.png"></img>
-    <img src="/media/works/visualIdentities/Exist Resist by Didier Faustino/4.png"></img>
-    <img src="/media/works/visualIdentities/Exist Resist by Didier Faustino/5.png"></img>
-    <img src="/media/works/visualIdentities/Exist Resist by Didier Faustino/6.png"></img>
+    <video src="./media/works/visualIdentities/Exist Resist by Didier Faustino/1.mp4" muted loop autoplay>
+    <img src="./media/works/visualIdentities/Exist Resist by Didier Faustino/2.png"></img>
+    <img src="./media/works/visualIdentities/Exist Resist by Didier Faustino/3.png"></img>
+    <img src="./media/works/visualIdentities/Exist Resist by Didier Faustino/4.png"></img>
+    <img src="./media/works/visualIdentities/Exist Resist by Didier Faustino/5.png"></img>
+    <img src="./media/works/visualIdentities/Exist Resist by Didier Faustino/6.png"></img>
     `
     // only the video works
 }, {
@@ -161,13 +161,13 @@ const works = [{
     year: 2022,
     location: 'Kuwait - Kuwait City',
     html: `
-    <img src="/media/works/visualIdentities/Shawerma Nate/1.jpg "></img>
-    <img src="/media/works/visualIdentities/Shawerma Nate/2.png "></img>
-    <img src="/media/works/visualIdentities/Shawerma Nate/3.png "></img>
-    <img src="/media/works/visualIdentities/Shawerma Nate/4.jpg "></img>
-    <img src="/media/works/visualIdentities/Shawerma Nate/5.jpg "></img>
-    <img src="/media/works/visualIdentities/Shawerma Nate/6.jpg "></img>
-    <img src="/media/works/visualIdentities/Shawerma Nate/7.jpg "></img>
+    <img src="./media/works/visualIdentities/Shawerma Nate/1.jpg "></img>
+    <img src="./media/works/visualIdentities/Shawerma Nate/2.png "></img>
+    <img src="./media/works/visualIdentities/Shawerma Nate/3.png "></img>
+    <img src="./media/works/visualIdentities/Shawerma Nate/4.jpg "></img>
+    <img src="./media/works/visualIdentities/Shawerma Nate/5.jpg "></img>
+    <img src="./media/works/visualIdentities/Shawerma Nate/6.jpg "></img>
+    <img src="./media/works/visualIdentities/Shawerma Nate/7.jpg "></img>
     `
 }, {
     id: 15,
@@ -176,8 +176,8 @@ const works = [{
     year: 2022,
     location: 'Amman - Jordan',
     html: `
-    <img src="/media/works/visualIdentities/Arak AlRah/1.jpeg "></img>
-    <img src="/media/works/visualIdentities/Arak AlRah/2.jpg "></img>
+    <img src="./media/works/visualIdentities/Arak AlRah/1.jpeg "></img>
+    <img src="./media/works/visualIdentities/Arak AlRah/2.jpg "></img>
     `
 
 }, {
@@ -187,10 +187,10 @@ const works = [{
     year: 2022,
     location: 'Dubai - UAE',
     html: `
-    <img src="/media/works/visualIdentities/On Foraging/1.jpg "></img>
-    <img src="/media/works/visualIdentities/On Foraging/2.png "></img>
-    <img src="/media/works/visualIdentities/On Foraging/3.png "></img>
-    <img src="/media/works/visualIdentities/On Foraging/4.jpg "></img>
+    <img src="./media/works/visualIdentities/On Foraging/1.jpg "></img>
+    <img src="./media/works/visualIdentities/On Foraging/2.png "></img>
+    <img src="./media/works/visualIdentities/On Foraging/3.png "></img>
+    <img src="./media/works/visualIdentities/On Foraging/4.jpg "></img>
     
     `
 
@@ -201,7 +201,7 @@ const works = [{
     year: 2022,
     location: 'Amman - Jordan',
     html: `
-    <video src="/media/works/visualIdentities/Arab World Art/1.mp4" muted loop autoplay>
+    <video src="./media/works/visualIdentities/Arab World Art/1.mp4" muted loop autoplay>
     `
 
 }, {
@@ -211,9 +211,9 @@ const works = [{
     year: 2022,
     location: 'Amman - Jordan',
     html: `
-    <img src="/media/works/visualIdentities/Brasserie Julie/1.jpg "></img>
-    <img src="/media/works/visualIdentities/Brasserie Julie/2.jpg "></img>
-    <img src="/media/works/visualIdentities/Brasserie Julie/3.png "></img>
+    <img src="./media/works/visualIdentities/Brasserie Julie/1.jpg "></img>
+    <img src="./media/works/visualIdentities/Brasserie Julie/2.jpg "></img>
+    <img src="./media/works/visualIdentities/Brasserie Julie/3.png "></img>
     `
 
 }, {
@@ -223,9 +223,9 @@ const works = [{
     year: 2022,
     location: 'Amman - Jordan',
     html: `
-    <img src="/media/works/visualIdentities/Fyxx/1.jpg "></img>
-    <img src="/media/works/visualIdentities/Fyxx/2.png "></img>
-    <img src="/media/works/visualIdentities/Fyxx/3.png "></img>
+    <img src="./media/works/visualIdentities/Fyxx/1.jpg "></img>
+    <img src="./media/works/visualIdentities/Fyxx/2.png "></img>
+    <img src="./media/works/visualIdentities/Fyxx/3.png "></img>
     `
 
 }, {
@@ -235,7 +235,7 @@ const works = [{
     year: 2022,
     location: 'Bethlehem - Palestine',
     html: `
-    <img src="/media/works/visualIdentities/Hollow Forms/1.gif "></img>
+    <img src="./media/works/visualIdentities/Hollow Forms/1.gif "></img>
     
     `
 
@@ -246,7 +246,7 @@ const works = [{
     year: 2022,
     location: 'Riyadh - Saudi Arabia',
     html: `
-    <video src="/media/works/visualIdentities/Bab Institute/1.mp4" muted  loop autoplay>
+    <video src="./media/works/visualIdentities/Bab Institute/1.mp4" muted  loop autoplay>
     
     `
 
@@ -257,8 +257,8 @@ const works = [{
     year: 2022,
     location: 'Riyadh - Saudi Arabia',
     html: `
-    <img src="/media/works/visualIdentities/Ikuna/1.png "></img>
-        <video src="/media/works/visualIdentities/Ikuna/2.mp4" muted loop autoplay>
+    <img src="./media/works/visualIdentities/Ikuna/1.png "></img>
+        <video src="./media/works/visualIdentities/Ikuna/2.mp4" muted loop autoplay>
 
     
     `
@@ -270,9 +270,9 @@ const works = [{
     year: 2021,
     location: 'Amman - Jordan',
     html: `
-    <img src="/media/works/visualIdentities/ARD/1.png "></img>
-    <img src="/media/works/visualIdentities/ARD/2.jpg "></img>
-    <img src="/media/works/visualIdentities/ARD/3.png "></img>
+    <img src="./media/works/visualIdentities/ARD/1.png "></img>
+    <img src="./media/works/visualIdentities/ARD/2.jpg "></img>
+    <img src="./media/works/visualIdentities/ARD/3.png "></img>
 
     
     `
@@ -284,7 +284,7 @@ const works = [{
     year: 2021,
     location: 'Doha - Bahrain',
     html: `
-    <img src="/media/works/visualIdentities/Studio Imara/1.png "></img>
+    <img src="./media/works/visualIdentities/Studio Imara/1.png "></img>
     
     `
 
@@ -295,10 +295,10 @@ const works = [{
     year: 2021,
     location: 'Jeddah - Saudi Arabia',
     html: `
-    <video src="/media/works/visualIdentities/RAW PRINT/1.mp4" muted loop autoplay>
-    <img src="/media/works/visualIdentities/RAW PRINT/2.png "></img>
-    <img src="/media/works/visualIdentities/RAW PRINT/3.png "></img>
-    <img src="/media/works/visualIdentities/RAW PRINT/4.png "></img>
+    <video src="./media/works/visualIdentities/RAW PRINT/1.mp4" muted loop autoplay>
+    <img src="./media/works/visualIdentities/RAW PRINT/2.png "></img>
+    <img src="./media/works/visualIdentities/RAW PRINT/3.png "></img>
+    <img src="./media/works/visualIdentities/RAW PRINT/4.png "></img>
     `
 
 }, {
@@ -317,11 +317,11 @@ const works = [{
     year: 2020,
     location: 'Lisbon - Portugal',
     html: `
-    <img src="/media/works/visualIdentities/Beirut Contemporary/1.png "></img>
-    <img src="/media/works/visualIdentities/Beirut Contemporary/2.png "></img>
-    <img src="/media/works/visualIdentities/Beirut Contemporary/3.png "></img>
-    <img src="/media/works/visualIdentities/Beirut Contemporary/4.png "></img>
-    <img src="/media/works/visualIdentities/Beirut Contemporary/5.png "></img>
+    <img src="./media/works/visualIdentities/Beirut Contemporary/1.png "></img>
+    <img src="./media/works/visualIdentities/Beirut Contemporary/2.png "></img>
+    <img src="./media/works/visualIdentities/Beirut Contemporary/3.png "></img>
+    <img src="./media/works/visualIdentities/Beirut Contemporary/4.png "></img>
+    <img src="./media/works/visualIdentities/Beirut Contemporary/5.png "></img>
 
     
     `
@@ -333,8 +333,8 @@ const works = [{
     year: 2020,
     location: 'Amman - Jordan',
     html: `
-    <img src="/media/works/visualIdentities/Ali Dates/1.jpeg"></img>
-    <img src="/media/works/visualIdentities/Ali Dates/2.jpeg"></img>
+    <img src="./media/works/visualIdentities/Ali Dates/1.jpeg"></img>
+    <img src="./media/works/visualIdentities/Ali Dates/2.jpeg"></img>
 
     
     `
@@ -346,18 +346,18 @@ const works = [{
     year: 2020,
     location: 'Kuwait City - Kuwait',
     html: `
-    <img src="/media/works/visualIdentities/Al Makan St./1.png "></img>
-    <img src="/media/works/visualIdentities/Al Makan St./2.png "></img>
-    <img src="/media/works/visualIdentities/Al Makan St./3.png "></img>
-    <img src="/media/works/visualIdentities/Al Makan St./4.png "></img>
-    <img src="/media/works/visualIdentities/Al Makan St./5.png "></img>
-    <img src="/media/works/visualIdentities/Al Makan St./6.png "></img>
-    <img src="/media/works/visualIdentities/Al Makan St./7.jpg "></img>
-    <img src="/media/works/visualIdentities/Al Makan St./8.jpg "></img>
-    <img src="/media/works/visualIdentities/Al Makan St./9.jpg "></img>
-    <img src="/media/works/visualIdentities/Al Makan St./10.png "></img>
-    <img src="/media/works/visualIdentities/Al Makan St./11.png "></img>
-    <img src="/media/works/visualIdentities/Al Makan St./12.png "></img>
+    <img src="./media/works/visualIdentities/Al Makan St./1.png "></img>
+    <img src="./media/works/visualIdentities/Al Makan St./2.png "></img>
+    <img src="./media/works/visualIdentities/Al Makan St./3.png "></img>
+    <img src="./media/works/visualIdentities/Al Makan St./4.png "></img>
+    <img src="./media/works/visualIdentities/Al Makan St./5.png "></img>
+    <img src="./media/works/visualIdentities/Al Makan St./6.png "></img>
+    <img src="./media/works/visualIdentities/Al Makan St./7.jpg "></img>
+    <img src="./media/works/visualIdentities/Al Makan St./8.jpg "></img>
+    <img src="./media/works/visualIdentities/Al Makan St./9.jpg "></img>
+    <img src="./media/works/visualIdentities/Al Makan St./10.png "></img>
+    <img src="./media/works/visualIdentities/Al Makan St./11.png "></img>
+    <img src="./media/works/visualIdentities/Al Makan St./12.png "></img>
     `
 
 }, {
@@ -367,8 +367,8 @@ const works = [{
     year: 2020,
     location: 'Jeddah - Saudi Arabia',
     html: `
-    <img src="/media/works/visualIdentities/Red Sea Film Festival/1.gif "></img>
-    <video src="/media/works/visualIdentities/Red Sea Film Festival/2.mp4" muted loop autoplay>
+    <img src="./media/works/visualIdentities/Red Sea Film Festival/1.gif "></img>
+    <video src="./media/works/visualIdentities/Red Sea Film Festival/2.mp4" muted loop autoplay>
     `
 
 }, {
@@ -378,7 +378,7 @@ const works = [{
     year: 2020,
     location: 'Tuwaiq - Saudi Arabia',
     html: `
-    <video src="/media/works/visualIdentities/Tuwaiq Sculpture Symposium/1.mp4" muted loop autoplay>
+    <video src="./media/works/visualIdentities/Tuwaiq Sculpture Symposium/1.mp4" muted loop autoplay>
     `
 
 }, {
@@ -388,16 +388,16 @@ const works = [{
     year: 2019,
     location: 'Amman - Jordan',
     html: `
-    <video src="/media/works/visualIdentities/Amman Design Week 2019/1.mov" muted loop autoplay>
-    <img src="/media/works/visualIdentities//Amman Design Week 2019/2.png "></img>
-    <img src="/media/works/visualIdentities//Amman Design Week 2019/3.png "></img>
-    <img src="/media/works/visualIdentities//Amman Design Week 2019/4.png "></img>
-    <img src="/media/works/visualIdentities//Amman Design Week 2019/5.png "></img>
-    <img src="/media/works/visualIdentities//Amman Design Week 2019/6.png "></img>
-    <video src="/media/works/visualIdentities/Amman Design Week 2019/7.mov" muted loop autoplay>
-    <img src="/media/works/visualIdentities//Amman Design Week 2019/8.png "></img>
-    <img src="/media/works/visualIdentities//Amman Design Week 2019/9.png "></img>
-    <img src="/media/works/visualIdentities//Amman Design Week 2019/10.jpg "></img>
+    <video src="./media/works/visualIdentities/Amman Design Week 2019/1.mov" muted loop autoplay>
+    <img src="./media/works/visualIdentities//Amman Design Week 2019/2.png "></img>
+    <img src="./media/works/visualIdentities//Amman Design Week 2019/3.png "></img>
+    <img src="./media/works/visualIdentities//Amman Design Week 2019/4.png "></img>
+    <img src="./media/works/visualIdentities//Amman Design Week 2019/5.png "></img>
+    <img src="./media/works/visualIdentities//Amman Design Week 2019/6.png "></img>
+    <video src="./media/works/visualIdentities/Amman Design Week 2019/7.mov" muted loop autoplay>
+    <img src="./media/works/visualIdentities//Amman Design Week 2019/8.png "></img>
+    <img src="./media/works/visualIdentities//Amman Design Week 2019/9.png "></img>
+    <img src="./media/works/visualIdentities//Amman Design Week 2019/10.jpg "></img>
     `
 
 }, {
@@ -407,9 +407,9 @@ const works = [{
     year: 2019,
     location: 'Haifa - Palestine',
     html: `
-    <img src="/media/works/visualIdentities/Haifa Indpt Film Fest/1.jpg"></img>
-    <img src="/media/works/visualIdentities/Haifa Indpt Film Fest/2.jpg"></img>
-    <img src="/media/works/visualIdentities/Haifa Indpt Film Fest/3.jpg"></img>
+    <img src="./media/works/visualIdentities/Haifa Indpt Film Fest/1.jpg"></img>
+    <img src="./media/works/visualIdentities/Haifa Indpt Film Fest/2.jpg"></img>
+    <img src="./media/works/visualIdentities/Haifa Indpt Film Fest/3.jpg"></img>
     `
 
 }, {
@@ -419,7 +419,7 @@ const works = [{
     year: 2019,
     location: 'Jeddah - Saudi Arabia',
     html: `
-    <video src="/media/works/visualIdentities/Red Sea Sculpture Symposium/1.mp4" muted loop autoplay>
+    <video src="./media/works/visualIdentities/Red Sea Sculpture Symposium/1.mp4" muted loop autoplay>
     `
 
 }, {
@@ -438,9 +438,9 @@ const works = [{
     year: 2018,
     location: 'Beirut - Lebanon',
     html: `
-    <img src="/media/works/visualIdentities/Barakunan/1.jpg "></img>
-    <img src="/media/works/visualIdentities/Barakunan/2.png "></img>
-    <img src="/media/works/visualIdentities/Barakunan/3.png "></img>
+    <img src="./media/works/visualIdentities/Barakunan/1.jpg "></img>
+    <img src="./media/works/visualIdentities/Barakunan/2.png "></img>
+    <img src="./media/works/visualIdentities/Barakunan/3.png "></img>
     `
 
 }, {
@@ -450,12 +450,12 @@ const works = [{
     year: 2018,
     location: 'World',
     html: `
-    <img src="/media/works/visualIdentities/Paradisea/1.png "></img>
-    <img src="/media/works/visualIdentities/Paradisea/2.jpg "></img>
-    <img src="/media/works/visualIdentities/Paradisea/3.png "></img>
-    <img src="/media/works/visualIdentities/Paradisea/4.png "></img>
-    <img src="/media/works/visualIdentities/Paradisea/5.jpeg "></img>
-    <img src="/media/works/visualIdentities/Paradisea/6.png "></img>
+    <img src="./media/works/visualIdentities/Paradisea/1.png "></img>
+    <img src="./media/works/visualIdentities/Paradisea/2.jpg "></img>
+    <img src="./media/works/visualIdentities/Paradisea/3.png "></img>
+    <img src="./media/works/visualIdentities/Paradisea/4.png "></img>
+    <img src="./media/works/visualIdentities/Paradisea/5.jpeg "></img>
+    <img src="./media/works/visualIdentities/Paradisea/6.png "></img>
 
 
     `
@@ -467,7 +467,7 @@ const works = [{
     year: 2018,
     location: 'Kuwait City - Kuwait',
     html: `
-    <img src="/media/works/visualIdentities/Cascou/1.png "></img>
+    <img src="./media/works/visualIdentities/Cascou/1.png "></img>
     
     `
 
@@ -478,7 +478,7 @@ const works = [{
     year: 2023,
     location: 'London - UK',
     html: `
-    <video src="/media/works/editorialDesign/WePresent Issue 5/1.mp4" muted loop autoplay>
+    <video src="./media/works/editorialDesign/WePresent Issue 5/1.mp4" muted loop autoplay>
 
     `
 }, {
@@ -487,7 +487,7 @@ const works = [{
     title: 'MDLBeast XP Zine',
     year: 2023,
     location: 'Riyadh - Saudi Arabia',
-    html: `    <video src="/media/works/editorialDesign/MDLBeast XP Zine/1.mp4" muted loop autoplay>
+    html: `    <video src="./media/works/editorialDesign/MDLBeast XP Zine/1.mp4" muted loop autoplay>
 `
 }, {
     id: 41,
@@ -495,7 +495,7 @@ const works = [{
     title: 'On Foraging',
     year: 2022,
     location: 'Duabi - UAE',
-    html: `    <video src="/media/works/editorialDesign/On Foraging/1.mp4" muted loop autoplay>
+    html: `    <video src="./media/works/editorialDesign/On Foraging/1.mp4" muted loop autoplay>
 `
 }, {
     id: 42,
@@ -504,10 +504,10 @@ const works = [{
     year: 2024,
     location: 'Bethlehem - Palestine',
     html: `
-        <img src="/media/works/postersArtworks/TWC Opening/1.png "></img>
-        <img src="/media/works/postersArtworks/TWC Opening/2.png "></img>
-        <img src="/media/works/postersArtworks/TWC Opening/3.jpg "></img>
-        <img src="/media/works/postersArtworks/TWC Opening/4.jpg "></img>
+        <img src="./media/works/postersArtworks/TWC Opening/1.png "></img>
+        <img src="./media/works/postersArtworks/TWC Opening/2.png "></img>
+        <img src="./media/works/postersArtworks/TWC Opening/3.jpg "></img>
+        <img src="./media/works/postersArtworks/TWC Opening/4.jpg "></img>
 
 
     `
@@ -518,7 +518,7 @@ const works = [{
     year: 2023,
     location: 'Beirut - Lebanon',
     html: `
-        <img src="/media/works/postersArtworks/Risonama/1.jpg "></img>
+        <img src="./media/works/postersArtworks/Risonama/1.jpg "></img>
     
     `
 }, {
@@ -528,12 +528,12 @@ const works = [{
     year: 2024,
     location: 'World',
     html: `
-        <img src="/media/works/postersArtworks/Radio Alhara/1.jpg "></img>
-        <img src="/media/works/postersArtworks/Radio Alhara/2.jpg "></img>
-        <img src="/media/works/postersArtworks/Radio Alhara/3.jpg "></img>
-        <img src="/media/works/postersArtworks/Radio Alhara/4.png "></img>
-        <img src="/media/works/postersArtworks/Radio Alhara/5.jpg "></img>
-        <img src="/media/works/postersArtworks/Radio Alhara/6.jpg "></img>
+        <img src="./media/works/postersArtworks/Radio Alhara/1.jpg "></img>
+        <img src="./media/works/postersArtworks/Radio Alhara/2.jpg "></img>
+        <img src="./media/works/postersArtworks/Radio Alhara/3.jpg "></img>
+        <img src="./media/works/postersArtworks/Radio Alhara/4.png "></img>
+        <img src="./media/works/postersArtworks/Radio Alhara/5.jpg "></img>
+        <img src="./media/works/postersArtworks/Radio Alhara/6.jpg "></img>
     `
 }, {
     id: 45,
@@ -542,7 +542,7 @@ const works = [{
     year: 2024,
     location: 'Amman - Jordan',
     html: `
-        <img src="/media/works/postersArtworks/A Small Palace/1.jpg "></img>
+        <img src="./media/works/postersArtworks/A Small Palace/1.jpg "></img>
     
     `
 }, {
@@ -552,10 +552,10 @@ const works = [{
     year: 2024,
     location: 'Tokyo - Japan',
     html: `
-        <img src="/media/works/postersArtworks/NUR/1.jpg "></img>
-        <img src="/media/works/postersArtworks/NUR/2.jpg "></img>
-        <img src="/media/works/postersArtworks/NUR/3.jpg "></img>
-        <img src="/media/works/postersArtworks/NUR/4.jpg "></img>
+        <img src="./media/works/postersArtworks/NUR/1.jpg "></img>
+        <img src="./media/works/postersArtworks/NUR/2.jpg "></img>
+        <img src="./media/works/postersArtworks/NUR/3.jpg "></img>
+        <img src="./media/works/postersArtworks/NUR/4.jpg "></img>
     `
 }, {
     id: 47,
@@ -564,9 +564,9 @@ const works = [{
     year: 2024,
     location: 'Bethlehem - Palestine',
     html: `
-        <img src="/media/works/postersArtworks/ Local Industries/1.jpg "></img>
-        <img src="/media/works/postersArtworks/ Local Industries/2.jpg "></img>
-        <img src="/media/works/postersArtworks/ Local Industries/3.jpg "></img>
+        <img src="./media/works/postersArtworks/ Local Industries/1.jpg "></img>
+        <img src="./media/works/postersArtworks/ Local Industries/2.jpg "></img>
+        <img src="./media/works/postersArtworks/ Local Industries/3.jpg "></img>
 
     
     `
@@ -577,12 +577,12 @@ const works = [{
     year: 2024,
     location: 'Amman - Jordan',
     html: `
-        <img src="/media/works/postersArtworks/X-Talks/1.jpg "></img>
-        <img src="/media/works/postersArtworks/X-Talks/2.jpg "></img>
-        <img src="/media/works/postersArtworks/X-Talks/3.jpg "></img>
-        <img src="/media/works/postersArtworks/X-Talks/4.jpg "></img>
-        <img src="/media/works/postersArtworks/X-Talks/5.jpg "></img>
-        <img src="/media/works/postersArtworks/X-Talks/6.jpg "></img>
+        <img src="./media/works/postersArtworks/X-Talks/1.jpg "></img>
+        <img src="./media/works/postersArtworks/X-Talks/2.jpg "></img>
+        <img src="./media/works/postersArtworks/X-Talks/3.jpg "></img>
+        <img src="./media/works/postersArtworks/X-Talks/4.jpg "></img>
+        <img src="./media/works/postersArtworks/X-Talks/5.jpg "></img>
+        <img src="./media/works/postersArtworks/X-Talks/6.jpg "></img>
     `
 }, {
     id: 49,
@@ -591,7 +591,7 @@ const works = [{
     year: 2020,
     location: 'Amman - Jordan',
     html: `
-        <img src="/media/works/postersArtworks/100 Logos/1.jpg "></img>
+        <img src="./media/works/postersArtworks/100 Logos/1.jpg "></img>
     
     `
 }, {
@@ -601,7 +601,7 @@ const works = [{
     year: 2016,
     location: 'Amman - Jordan',
     html: `
-        <img src="/media/works/postersArtworks/Yes Yes Coffee/1.jpg "></img>
+        <img src="./media/works/postersArtworks/Yes Yes Coffee/1.jpg "></img>
     
     `
 }, {
@@ -611,14 +611,14 @@ const works = [{
     year: 2018,
     location: 'Dubai - UAE',
     html: `
-        <img src="/media/works/postersArtworks/LI X Turbo Alserkal/1.jpg "></img>
-        <img src="/media/works/postersArtworks/LI X Turbo Alserkal/2.jpg "></img>
-        <img src="/media/works/postersArtworks/LI X Turbo Alserkal/3.jpg "></img>
-        <img src="/media/works/postersArtworks/LI X Turbo Alserkal/4.jpg "></img>
-        <img src="/media/works/postersArtworks/LI X Turbo Alserkal/5.jpg "></img>
-        <img src="/media/works/postersArtworks/LI X Turbo Alserkal/6.png "></img>
-        <img src="/media/works/postersArtworks/LI X Turbo Alserkal/7.jpg "></img>
-        <img src="/media/works/postersArtworks/LI X Turbo Alserkal/8.jpg "></img>
+        <img src="./media/works/postersArtworks/LI X Turbo Alserkal/1.jpg "></img>
+        <img src="./media/works/postersArtworks/LI X Turbo Alserkal/2.jpg "></img>
+        <img src="./media/works/postersArtworks/LI X Turbo Alserkal/3.jpg "></img>
+        <img src="./media/works/postersArtworks/LI X Turbo Alserkal/4.jpg "></img>
+        <img src="./media/works/postersArtworks/LI X Turbo Alserkal/5.jpg "></img>
+        <img src="./media/works/postersArtworks/LI X Turbo Alserkal/6.png "></img>
+        <img src="./media/works/postersArtworks/LI X Turbo Alserkal/7.jpg "></img>
+        <img src="./media/works/postersArtworks/LI X Turbo Alserkal/8.jpg "></img>
     `
 }, {
     id: 52,
@@ -627,7 +627,7 @@ const works = [{
     year: 2019,
     location: 'World',
     html: `
-        <img src="/media/works/postersArtworks/Lifta Magazine/1.jpg "></img>
+        <img src="./media/works/postersArtworks/Lifta Magazine/1.jpg "></img>
     
     `
 }, {
@@ -637,10 +637,10 @@ const works = [{
     year: 2018,
     location: 'Amman - Jordan',
     html: `
-        <img src="/media/works/postersArtworks/10,000 Matchboxes/1.JPG "></img>
-        <img src="/media/works/postersArtworks/10,000 Matchboxes/2.JPG "></img>
-        <img src="/media/works/postersArtworks/10,000 Matchboxes/3.JPG "></img>
-        <img src="/media/works/postersArtworks/10,000 Matchboxes/4.JPG "></img>
+        <img src="./media/works/postersArtworks/10,000 Matchboxes/1.JPG "></img>
+        <img src="./media/works/postersArtworks/10,000 Matchboxes/2.JPG "></img>
+        <img src="./media/works/postersArtworks/10,000 Matchboxes/3.JPG "></img>
+        <img src="./media/works/postersArtworks/10,000 Matchboxes/4.JPG "></img>
     `
 }, {
     id: 54,
@@ -649,7 +649,7 @@ const works = [{
     year: 2018,
     location: 'Amman - Jordan',
     html: `
-        <img src="/media/works/postersArtworks/The Printer & Mr.Olfa/1.png "></img>
+        <img src="./media/works/postersArtworks/The Printer & Mr.Olfa/1.png "></img>
     
     `
 }, {
@@ -659,14 +659,14 @@ const works = [{
     year: 2016,
     location: 'Amman - Jordan',
     html: `
-        <img src="/media/works/postersArtworks/Tawfiq Remixed/1.png "></img>
-        <img src="/media/works/postersArtworks/Tawfiq Remixed/2.png "></img>
-        <img src="/media/works/postersArtworks/Tawfiq Remixed/3.png "></img>
-        <img src="/media/works/postersArtworks/Tawfiq Remixed/4.png "></img>
-        <img src="/media/works/postersArtworks/Tawfiq Remixed/5.png "></img>
-        <img src="/media/works/postersArtworks/Tawfiq Remixed/6.png "></img>
-        <img src="/media/works/postersArtworks/Tawfiq Remixed/7.png "></img>
-        <img src="/media/works/postersArtworks/Tawfiq Remixed/8.png "></img>
+        <img src="./media/works/postersArtworks/Tawfiq Remixed/1.png "></img>
+        <img src="./media/works/postersArtworks/Tawfiq Remixed/2.png "></img>
+        <img src="./media/works/postersArtworks/Tawfiq Remixed/3.png "></img>
+        <img src="./media/works/postersArtworks/Tawfiq Remixed/4.png "></img>
+        <img src="./media/works/postersArtworks/Tawfiq Remixed/5.png "></img>
+        <img src="./media/works/postersArtworks/Tawfiq Remixed/6.png "></img>
+        <img src="./media/works/postersArtworks/Tawfiq Remixed/7.png "></img>
+        <img src="./media/works/postersArtworks/Tawfiq Remixed/8.png "></img>
     `
 }, {
     id: 56,
@@ -675,21 +675,21 @@ const works = [{
     year: 2016,
     location: 'Amman - Jordan',
     html: `
-        <img src="/media/works/postersArtworks/Never Records/1.png "></img>
-        <img src="/media/works/postersArtworks/Never Records/2.jpg "></img>
+        <img src="./media/works/postersArtworks/Never Records/1.png "></img>
+        <img src="./media/works/postersArtworks/Never Records/2.jpg "></img>
     `
 }]
 let space = {
     html: `
-            <img src="/media/Space/1.jpg "></img>
-            <img src="/media/Space/2.jpg "></img>
-            <img src="/media/Space/3.jpg "></img>
-            <img src="/media/Space/4.jpg "></img>
-            <img src="/media/Space/5.jpg "></img>
-            <img src="/media/Space/6.jpg "></img>
-            <img src="/media/Space/7.jpg "></img>
-            <img src="/media/Space/8.jpg "></img>
-            <img src="/media/Space/9.jpg "></img>
+            <img src="./media/Space/1.jpg "></img>
+            <img src="./media/Space/2.jpg "></img>
+            <img src="./media/Space/3.jpg "></img>
+            <img src="./media/Space/4.jpg "></img>
+            <img src="./media/Space/5.jpg "></img>
+            <img src="./media/Space/6.jpg "></img>
+            <img src="./media/Space/7.jpg "></img>
+            <img src="./media/Space/8.jpg "></img>
+            <img src="./media/Space/9.jpg "></img>
         `
 };
 
