@@ -58,6 +58,13 @@ svg {
 
 }
 
+
+.content video,
+.content img {
+    width: 100%;
+    height: auto;
+}
+
 .logo {
     padding: 10px;
     background-image: url(./media/logo.png);

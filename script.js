@@ -27,7 +27,7 @@ const works = [{
     title: 'Matters Matter',
     year: 2024,
     location: 'Jeddah - Saudi Arabia',
-    html: `<video src="./media/works/visualIdentities/Matters Through Matter/1.mp4" muted loop autoplay>`
+    html: `<video src="./media/works/visualIdentities/Matters Through Matter/1.mp4" muted loop autoplay></video>`
 
 }, {
     id: 4,
@@ -35,7 +35,7 @@ const works = [{
     title: 'Sound of Places',
     year: 2024,
     location: 'Bethlehem - Palestine',
-    html: `<video src="./media/works/visualIdentities/Sound Of Places/1.mp4" muted loop autoplay>`
+    html: `<video src="./media/works/visualIdentities/Sound Of Places/1.mp4" muted loop autoplay></video>`
 
 }, {
     id: 5,
@@ -146,7 +146,7 @@ const works = [{
     year: 2022,
     location: 'Lisbon - Portugal',
     html: `
-    <video src="./media/works/visualIdentities/Exist Resist by Didier Faustino/1.mp4" muted loop autoplay>
+    <video src="./media/works/visualIdentities/Exist Resist by Didier Faustino/1.mp4" muted loop autoplay></video>
     <img src="./media/works/visualIdentities/Exist Resist by Didier Faustino/2.png"></img>
     <img src="./media/works/visualIdentities/Exist Resist by Didier Faustino/3.png"></img>
     <img src="./media/works/visualIdentities/Exist Resist by Didier Faustino/4.png"></img>
@@ -201,7 +201,7 @@ const works = [{
     year: 2022,
     location: 'Amman - Jordan',
     html: `
-    <video src="./media/works/visualIdentities/Arab World Art/1.mp4" muted loop autoplay>
+    <video src="./media/works/visualIdentities/Arab World Art/1.mp4" muted loop autoplay></video>
     `
 
 }, {
@@ -246,7 +246,7 @@ const works = [{
     year: 2022,
     location: 'Riyadh - Saudi Arabia',
     html: `
-    <video src="./media/works/visualIdentities/Bab Institute/1.mp4" muted  loop autoplay>
+    <video src="./media/works/visualIdentities/Bab Institute/1.mp4" muted  loop autoplay></video>
     
     `
 
@@ -258,7 +258,7 @@ const works = [{
     location: 'Riyadh - Saudi Arabia',
     html: `
     <img src="./media/works/visualIdentities/Ikuna/1.png "></img>
-        <video src="./media/works/visualIdentities/Ikuna/2.mp4" muted loop autoplay>
+        <video src="./media/works/visualIdentities/Ikuna/2.mp4" muted loop autoplay></video>
 
     
     `
@@ -295,7 +295,7 @@ const works = [{
     year: 2021,
     location: 'Jeddah - Saudi Arabia',
     html: `
-    <video src="./media/works/visualIdentities/RAW PRINT/1.mp4" muted loop autoplay>
+    <video src="./media/works/visualIdentities/RAW PRINT/1.mp4" muted loop autoplay></video>
     <img src="./media/works/visualIdentities/RAW PRINT/2.png "></img>
     <img src="./media/works/visualIdentities/RAW PRINT/3.png "></img>
     <img src="./media/works/visualIdentities/RAW PRINT/4.png "></img>
@@ -368,7 +368,7 @@ const works = [{
     location: 'Jeddah - Saudi Arabia',
     html: `
     <img src="./media/works/visualIdentities/Red Sea Film Festival/1.gif "></img>
-    <video src="./media/works/visualIdentities/Red Sea Film Festival/2.mp4" muted loop autoplay>
+    <video src="./media/works/visualIdentities/Red Sea Film Festival/2.mp4" muted loop autoplay></video>
     `
 
 }, {
@@ -378,7 +378,7 @@ const works = [{
     year: 2020,
     location: 'Tuwaiq - Saudi Arabia',
     html: `
-    <video src="./media/works/visualIdentities/Tuwaiq Sculpture Symposium/1.mp4" muted loop autoplay>
+    <video src="./media/works/visualIdentities/Tuwaiq Sculpture Symposium/1.mp4" muted loop autoplay></video>
     `
 
 }, {
@@ -388,13 +388,13 @@ const works = [{
     year: 2019,
     location: 'Amman - Jordan',
     html: `
-    <video src="./media/works/visualIdentities/Amman Design Week 2019/1.mov" muted loop autoplay>
+    <video src="./media/works/visualIdentities/Amman Design Week 2019/1.mov" muted loop autoplay></video>
     <img src="./media/works/visualIdentities//Amman Design Week 2019/2.png "></img>
     <img src="./media/works/visualIdentities//Amman Design Week 2019/3.png "></img>
     <img src="./media/works/visualIdentities//Amman Design Week 2019/4.png "></img>
     <img src="./media/works/visualIdentities//Amman Design Week 2019/5.png "></img>
     <img src="./media/works/visualIdentities//Amman Design Week 2019/6.png "></img>
-    <video src="./media/works/visualIdentities/Amman Design Week 2019/7.mov" muted loop autoplay>
+    <video src="./media/works/visualIdentities/Amman Design Week 2019/7.mov" muted loop autoplay></video>
     <img src="./media/works/visualIdentities//Amman Design Week 2019/8.png "></img>
     <img src="./media/works/visualIdentities//Amman Design Week 2019/9.png "></img>
     <img src="./media/works/visualIdentities//Amman Design Week 2019/10.jpg "></img>
@@ -419,7 +419,7 @@ const works = [{
     year: 2019,
     location: 'Jeddah - Saudi Arabia',
     html: `
-    <video src="./media/works/visualIdentities/Red Sea Sculpture Symposium/1.mp4" muted loop autoplay>
+    <video src="./media/works/visualIdentities/Red Sea Sculpture Symposium/1.mp4" muted loop autoplay></video>
     `
 
 }, {
@@ -478,7 +478,7 @@ const works = [{
     year: 2023,
     location: 'London - UK',
     html: `
-    <video src="./media/works/editorialDesign/WePresent Issue 5/1.mp4" muted loop autoplay>
+    <video src="./media/works/editorialDesign/WePresent Issue 5/1.mp4" muted loop autoplay></video>
 
     `
 }, {
@@ -487,7 +487,7 @@ const works = [{
     title: 'MDLBeast XP Zine',
     year: 2023,
     location: 'Riyadh - Saudi Arabia',
-    html: `    <video src="./media/works/editorialDesign/MDLBeast XP Zine/1.mp4" muted loop autoplay>
+    html: `    <video src="./media/works/editorialDesign/MDLBeast XP Zine/1.mp4" muted loop autoplay></video>
 `
 }, {
     id: 41,
@@ -495,7 +495,7 @@ const works = [{
     title: 'On Foraging',
     year: 2022,
     location: 'Duabi - UAE',
-    html: `    <video src="./media/works/editorialDesign/On Foraging/1.mp4" muted loop autoplay>
+    html: `    <video src="./media/works/editorialDesign/On Foraging/1.mp4" muted loop autoplay></video>
 `
 }, {
     id: 42,
