@@ -4,7 +4,7 @@ const works = [{
     title: 'The Wonder Cabinet',
     year: 2024,
     location: 'Bethlehem - Palestine',
-    html: `<img src="/media/works/visualIdentities/The Wonder Cabinet/1.png"></img>
+    html: `<img src="./media/works/visualIdentities/The Wonder Cabinet/1.png"></img>
     <img src="/media/works/visualIdentities/The Wonder Cabinet/2.png"></img>
     <img src="/media/works/visualIdentities/The Wonder Cabinet/3.png"></img>
     <img src="/media/works/visualIdentities/The Wonder Cabinet/4.png"></img>
@@ -27,7 +27,7 @@ const works = [{
     title: 'Matters Matter',
     year: 2024,
     location: 'Jeddah - Saudi Arabia',
-    html: `<video src="/media/works/visualIdentities/Matters Through Matter/1.mp4" muted loop autoplay>`
+    html: `<video src="./media/works/visualIdentities/Matters Through Matter/1.mp4" muted loop autoplay>`
 
 }, {
     id: 4,
@@ -759,7 +759,7 @@ const img1 = document.getElementById('img1');
 const img2 = document.getElementById('img2');
 
 setInterval(function () {
-    const nextImgSrc = `/media/slider/frame ${imgNum}.png`;
+    const nextImgSrc = `./media/slider/frame ${imgNum}.png`;
 
     if (currentImage === 1) {
         img2.src = nextImgSrc; // Load new image into img2
